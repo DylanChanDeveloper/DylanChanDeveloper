@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DylanChanDeveloper
 - 👀 I’m interested in Game Development
-- 🌱 I’m currently learning Unity C#
+- 🌱 Experienced with Unity and C#, currently learning Unreal 5 and blueprints
 - 💞️ I’m looking to collaborate on any games.
 - 📫 How to reach me dchan2121@gmail.com
 
